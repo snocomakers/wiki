@@ -1,0 +1,45 @@
+{
+    "DeviceList": [
+        {
+            "Checklist": "",
+            "DefaultCutList": [
+            ],
+            "DefaultToolCutList": [
+            ],
+            "DisplayName": "40W CO2 Laser 25x12.5 Inches",
+            "EnableLaser2Offset": false,
+            "EnableProcessOffset": false,
+            "GUID": "jRhLThhMzc",
+            "Height": 317,
+            "HomeOnStartup": true,
+            "Info": "",
+            "Laser2OffsetX": 0,
+            "Laser2OffsetY": 0,
+            "LastCamera": "",
+            "LastDevLibraryPath": "",
+            "MirrorX": false,
+            "MirrorY": false,
+            "Name": "GRBL",
+            "ProcessOffsetX": 0,
+            "ProcessOffsetY": 0,
+            "ReverseIntervalCompensation": false,
+            "Settings": {
+                "AlignH": 2,
+                "AlignV": 0,
+                "CommPort": "cu.wlan-debug",
+                "DockState_ArtBrowser": false,
+                "DockState_Camera": true,
+                "DockState_Console": true,
+                "DockState_CutLibrary": true,
+                "DockState_LaserFiles": false,
+                "DockState_Move": false,
+                "DockState_ShapeProperties": false,
+                "DockState_VariableText": true,
+                "UserFinishX": 0,
+                "UserFinishY": 0
+            },
+            "Type": "Serial",
+            "Width": 635
+        }
+    ]
+}

@@ -10,5 +10,5 @@ markdown_extensions:
 
 nav:
   - Home: "index.md"
-  - 3D printers: 3Dprinters/index.md
+  - 3D printers: 3DPrinters/index.md
   - Laser Cutters: LaserCutters/index.md

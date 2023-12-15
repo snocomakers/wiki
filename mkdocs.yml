@@ -7,3 +7,8 @@ markdown_extensions:
       permalink: true
   - tables
   - admonition
+
+nav:
+  - Home: "index.md"
+  - 3D printers: 3Dprinters/index.md
+  - Laser Cutters: LaserCutters/index.md

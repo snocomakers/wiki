@@ -1,3 +1,5 @@
+# Laser Cutters
+
 ## List of Laser Cutters
 
 | Type | Wattage | Cut Volume (Inches) | Cut Volume (MM) | Lightburn Device Profile                                                                                                     | Recommended Cut Settings            |

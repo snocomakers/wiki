@@ -1,1 +1,0 @@
-Use the [Github Wiki](https://github.com/beccazero/SnocoMakersWiki/wiki) to Navigate this repo.

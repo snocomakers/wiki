@@ -4,4 +4,4 @@
 * [Drag Knife](DragKnife/index.md)
 * [Laser Cutters](LaserCutters/index.md)
 * [Metal Shop](MetalShop/index.md)
-* [Wood Shop](WoodShop/index.md)
+* [Wood Shop](Woodshop/index.md)
